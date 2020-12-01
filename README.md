@@ -5,7 +5,7 @@ Em estatística, econometria, matemática aplicada e processamento de sinais, um
 As séries temporais existem nas mais variadas áreas de aplicação, como: finanças, marketing, economia, seguros, demografia, ciências sociais, meteorologia, energia, epidemiologia, etc.
 
 
-# [Project  : Exploratory Data Analysis (Medium)](https://github.com/bezerraluis/Time-Series/blob/main/project/Time_Series_sales_super_store.ipynb)
+# [Project  : Time Series](https://github.com/bezerraluis/Time-Series/blob/main/project/Time_Series_sales_super_store.ipynb)
 
 
 
